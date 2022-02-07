@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.untitled.hint": "hidden",
+    "html.format.enable": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "GitHub Dark Default"
+}
